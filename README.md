@@ -7,4 +7,4 @@ This program was given as part of a job applciation. It involved first making an
 The end goal was to send my resume to the resulting email address.
 
 II. ToDo:
--This is very inefficient with nested for loops and I've been meaning to come back and recode this. 
+- IIRC this was done under a time cunrch so it is not very inefficient with nested for loops and I'll need to come back and rethink this.
